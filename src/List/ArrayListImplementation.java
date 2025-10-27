@@ -15,8 +15,16 @@ public class ArrayListImplementation {
 
         List<Integer> list=new ArrayList<>();//we can use list bcz list is parent class of arraylist
         ArrayList<Integer> list1=new ArrayList<>();
-        list.add(1);
+        list.add(1);//add the value at last
+        list.add(0,1);//add the value at specific index
+        System.out.println(list.get(0));//print the element based on the index
         System.out.println(list);
+        System.out.println(list.size());
+        System.out.println(list.contains(0));//gives true or false based on the value present in the list
+
+        list.remove(0);//based on the index element will be removed from the list
+        
+
 
 
     }
