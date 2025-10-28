@@ -12,10 +12,10 @@ This repository is created to explore these classes through simple and clear exa
 
 ---
 
-## ✅ Topics Covered (Planned)
+## ✅ Topics Covered
 
 - `ArrayList`
-- 'Vector'
+- `Vector`
 - `LinkedList`
 - `HashSet`
 - `LinkedHashSet`
