@@ -14,7 +14,8 @@ This repository is created to explore these classes through simple and clear exa
 
 ## ✅ Topics Covered (Planned)
 
-- `ArrayList` ✅ *(Implemented)*
+- `ArrayList`
+- 'Vector'
 - `LinkedList`
 - `HashSet`
 - `LinkedHashSet`
